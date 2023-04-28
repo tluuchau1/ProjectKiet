@@ -20,7 +20,7 @@
 }
 .wrapper i:first-child {
   left: 0;
-  display: none;
+  
 }
 .wrapper i:last-child {
   right: 0;
