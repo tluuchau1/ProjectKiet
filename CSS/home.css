@@ -53,8 +53,10 @@
   background-color: #eee;
   transition: all 0.8s;
 }
-.slick-dots .slick-active button {
-  background-color: #2cccff;
+
+.wrapper i:first-child {
+  left: 0;
+  display: none;
 }
 .banner {
   display: flex;
